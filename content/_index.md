@@ -1,8 +1,6 @@
 ---
 date: "2022-10-24"
 sections:
-- block: hero
-
 - block: about.biography
   content:
     title: Biography
