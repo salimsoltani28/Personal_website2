@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://luminous-cannoli-86d614.netlify.app/sitemap.xml

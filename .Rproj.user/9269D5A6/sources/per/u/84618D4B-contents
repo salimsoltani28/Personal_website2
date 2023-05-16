@@ -1,0 +1,5 @@
+blogdown::new_site()
+
+
+# Create a new site with the Docsy theme
+blogdown::new_site("CaiJimmy/hugo-theme-stack")
